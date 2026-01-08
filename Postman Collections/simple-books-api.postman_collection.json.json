@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "efe9dc7d-ed01-444d-9d09-71e282e6b2a9",
+		"name": "Books",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Status",
+			"id": "67913a66-d228-4b24-9a1e-a27bc7c56a31",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://simple-books-api.click/status"
+			},
+			"response": []
+		}
+	]
+}
